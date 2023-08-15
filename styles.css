@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.containerWith{
+	width:1100px;
+}
+.first{
+	width:200px;
+}
+.second{
+	width:600px;
+}
+.last{
+	width:200px;
+}
